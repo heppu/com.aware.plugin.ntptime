@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_values">
+        <item >time.nist.gov</item>
+        <item >nist1-chi.ustiming.org</item>
+        <item >nist.time.nosc.us</item>
+        <item >utcnist.colorado.edu</item>
+    </string-array>
+</resources>
