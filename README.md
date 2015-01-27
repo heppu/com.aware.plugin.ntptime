@@ -11,7 +11,7 @@ Settings:
 
 Broadcasts
 ----------
-- **ACTION_AWARE_PLUGIN_NTPTIME: ** Broadcasted after every time check
+- **ACTION_AWARE_PLUGIN_NTPTIME:** Broadcasted after every time check
   - **drift:** time in ms your clock drifts from actual time
 
 Providers
